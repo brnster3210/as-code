@@ -1,3 +1,4 @@
 
 as-infrastructure-aws/env/prod/.terraform/providers/registry.terraform.io/hashicorp/aws/2.70.1/linux_amd64/terraform-provider-aws_v2.70.1_x4
 as-infrastructure-aws/env/prod/.terraform/providers/registry.terraform.io/hashicorp/aws/3.72.0/linux_amd64/terraform-provider-aws_v3.72.0_x5
+as-infrastructure-aws/env/prod/.terraform/providers/registry.terraform.io/hashicorp/aws/3.72.0/windows_386/terraform-provider-aws_v3.72.0_x5.exe

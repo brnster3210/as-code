@@ -18,7 +18,7 @@ module "as-eks-prod-VPC" {
   vpc_cidr              = "10.200.64.0/19"
   vpc_public_subnet_2A  = "10.200.64.0/24"
   vpc_public_subnet_2B  = "10.200.65.0/24"
-  vpc_public_subnet_2C  = "10.200.66/24"
+  vpc_public_subnet_2C  = "10.200.66.0/24"
   vpc_private_subnet_2A = "10.200.72.0/23"
   vpc_private_subnet_2B = "10.200.74.0/23"
   vpc_private_subnet_2C = "10.200.76.0/23"

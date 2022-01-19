@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"tf-vpc-1","Source":"../module/vpc","Dir":""},{"Key":"as-eks-prod-VPC","Source":"../../modules/vpc","Dir":"../../modules/vpc"},{"Key":"","Source":"","Dir":"."}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"tf-vpc-1","Source":"../module/vpc","Dir":""},{"Key":"as-eks-prod-VPC","Source":"../../modules/vpc","Dir":"../../modules/vpc"}]}

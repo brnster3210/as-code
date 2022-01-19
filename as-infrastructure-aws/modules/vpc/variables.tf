@@ -25,8 +25,6 @@ variable "vpc_cidr" {
 
 variable "vpc_public_subnet_2A" {
   description = "Public subnet for EC2"
-  type = string
-  default = "vpc_public_subnet_2A"
 }
 
 variable "vpc_public_subnet_2B" {
